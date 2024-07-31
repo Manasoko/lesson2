@@ -1,6 +1,6 @@
 .eslintrc.cjs
 package-lock.json
-vite.config.json
+vite.config.js
 package.json
 
 # Logs
